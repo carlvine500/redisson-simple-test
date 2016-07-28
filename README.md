@@ -1,5 +1,5 @@
 test result: (exception time:10:46:41 ,it still blocked at:10:47:15.70)
-
+```
 E:\Workspaces\myeclipse10\redisson-simple-test>mvn test -Dtest=Tester
 [INFO] Scanning for projects...
 [WARNING]
@@ -87,3 +87,4 @@ E:\Workspaces\myeclipse10\redisson-simple-test>time
 当前时间: 10:47:15.70
 输入新时间:
 
+```
